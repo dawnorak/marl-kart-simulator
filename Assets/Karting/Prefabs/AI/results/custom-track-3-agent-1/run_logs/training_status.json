@@ -1,0 +1,65 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 699973,
+                "file_path": "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-699973.onnx",
+                "reward": 306.676540851593,
+                "creation_time": 1693847794.9076738,
+                "auxillary_file_paths": [
+                    "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-699973.pt"
+                ]
+            },
+            {
+                "steps": 799952,
+                "file_path": "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-799952.onnx",
+                "reward": 307.7754609107971,
+                "creation_time": 1693848056.8183632,
+                "auxillary_file_paths": [
+                    "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-799952.pt"
+                ]
+            },
+            {
+                "steps": 899937,
+                "file_path": "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-899937.onnx",
+                "reward": 306.6739342553275,
+                "creation_time": 1693848309.8689587,
+                "auxillary_file_paths": [
+                    "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-899937.pt"
+                ]
+            },
+            {
+                "steps": 999977,
+                "file_path": "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-999977.onnx",
+                "reward": 307.07386302948,
+                "creation_time": 1693848551.7424178,
+                "auxillary_file_paths": [
+                    "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-999977.pt"
+                ]
+            },
+            {
+                "steps": 1000041,
+                "file_path": "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-1000041.onnx",
+                "reward": 307.07386302948,
+                "creation_time": 1693848551.8001316,
+                "auxillary_file_paths": [
+                    "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-1000041.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000041,
+            "file_path": "results\\custom-track-3-agent-1\\ArcadeDriver.onnx",
+            "reward": 307.07386302948,
+            "creation_time": 1693848551.8001316,
+            "auxillary_file_paths": [
+                "results\\custom-track-3-agent-1\\ArcadeDriver\\ArcadeDriver-1000041.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
