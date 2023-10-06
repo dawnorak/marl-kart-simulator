@@ -1,6 +1,6 @@
 # Cooperation Dynamics in Multi-Agent Systems: Exploring Game-Theoretic Scenarios with Mean-Field Equilibria
 
-**Authors: Vaigarai Sathi, Sabahat Shaik, Jaswanth Nidamanuri**
+**Authors: [Vaigarai Sathi](https://github.com/dawnorak), [Sabahat Shaik](https://github.com/SabaXs), Jaswanth Nidamanuri**
 
 **Abstract:**
 
